@@ -1,0 +1,16 @@
+D:\IE322_Saad\My First GUI App\My First GUI App\bin\Debug\My First GUI App.exe.config
+D:\IE322_Saad\My First GUI App\My First GUI App\bin\Debug\My First GUI App.exe
+D:\IE322_Saad\My First GUI App\My First GUI App\bin\Debug\My First GUI App.pdb
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My First GUI App.csprojAssemblyReference.cache
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmMain.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.Properties.Resources.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My First GUI App.csproj.GenerateResource.cache
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My First GUI App.exe
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My First GUI App.pdb
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmRadio.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmCheck.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmCombo.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmRandomCombo.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmRandom.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My_First_GUI_App.frmPic01.resources
+D:\IE322_Saad\My First GUI App\My First GUI App\obj\Debug\My First GUI App.csproj.CoreCompileInputs.cache
